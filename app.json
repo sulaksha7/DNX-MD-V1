@@ -1,9 +1,9 @@
 {
   "name": "DNX-MD",
   "description": "I am DNX-MD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
-  "logo": "https://raw.githubusercontent.com/XdTechPro/KHAN-DATA/refs/heads/main/logo/KHAN.png",
-  "keywords": ["JAWAD-MD"],
-  "repository": "https://github.com/XdTechPro/JAWAD-MD",
+  "logo": "https://i.ibb.co/MDDgqwXc/8600.jpg",
+  "keywords": ["DNX-MD"],
+  "repository": "https://github.com/DNX-MD-V1/DNX-MD-V1",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
@@ -24,7 +24,7 @@
     "MENU_IMAGE": {
       "description": "change menu image if want otherwise use default",
       "required": false,
-      "value": "https://files.catbox.moe/7l1tt5.jpg"
+      "value": "https://i.ibb.co/MDDgqwXc/8600.jpg"
     },
     "DESCRIPTION": {
       "description": "add caption for menu and etc",
@@ -49,7 +49,7 @@
     "STATUS_READ_MSG": {
       "description": "set your status reply message",
       "required": false,
-      "value": "*Status Seen By DNX-MD 👻🤍*"
+      "value": "*STUTAS SEEN BY DNX-MD ☠️*"
     },
     "OWNER_NAME": {
       "description": "set your status reply message",
